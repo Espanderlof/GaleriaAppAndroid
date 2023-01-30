@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/nav_reload_image"
+        android:icon="@drawable/ic_refresh"
+        android:title="Refresh Imagenes"
+        app:showAsAction="ifRoom"/>
+
+    <!--<item android:id="@+id/nav_reload_gif"
+        android:icon="@drawable/ic_gif"
+        android:title="Refresh Gif"
+        app:showAsAction="ifRoom"/>-->
+
+</menu>
